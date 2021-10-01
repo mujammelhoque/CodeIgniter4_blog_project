@@ -1,0 +1,2 @@
+[07-Jul-2021 05:36:45 Europe/Berlin] PHP Fatal error:  Constant expression contains invalid operations in G:\xampp7328\htdocs\CI\cicode\app\Config\App.php on line 27
+[12-Jul-2021 13:06:42 Asia/Dhaka] PHP Fatal error:  Access level to App\Controllers\User::$request must be protected (as in class App\Controllers\BaseController) or weaker in G:\xampp7328\htdocs\CI\cicode\app\Controllers\User.php on line 6
